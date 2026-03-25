@@ -40,8 +40,7 @@ Since I specialize in **Android Security**, I focus on:
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [ضع رابط حسابك هنا]
-- **TryHackMe/HackTheBox:** [ضع رابط بروفايلك هنا]
+- **LinkedIn:** https://www.linkedin.com/in/fahad-ghafoori/
 
 ---
 *“In the world of APIs, the only limit is the logic you can break.”*
